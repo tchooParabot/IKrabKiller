@@ -14,7 +14,7 @@ import org.rev317.min.api.methods.Skill;
 
 
 @ScriptManifest(author = "Tchoo", category = Category.COMBAT, description = "Kills rock crabs on Ikov", 
-			name = "IkrabKiller", servers = { "Ikov" }, version = 1.0)
+			name = "IkrabKiller", servers = { "Ikov" }, version = 1.1)
 
 public class IkrabKiller extends Script implements Paintable{
 	
